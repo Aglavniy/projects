@@ -8,7 +8,7 @@ I've been learning code on Python for 3 years, after switching data analyzed. I'
 
 Before I started learning python, I created ads for company at social media (VK,Facebook, IG) and at Google Ads, also  at Yandex direct.
 
-* At the end of 23 years, my team and I took the second place hackaton GlowByte
+* At the end of 2023, my team and I took second place at the GlowByte hackathon. [GlowByte hackathon](https://t.me/APoluesov)
 * 
 
 
