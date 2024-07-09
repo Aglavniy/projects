@@ -1,19 +1,32 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm Andrew !
+Привет ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)Я Андрей!
 ======================================================================================================================================
 
-I'm a junior Data Analyst
+Я junior Data Analyst
 -------------------------
 
-I've been learning code on Python for 3 years, after switching data analyzed. I've learned libraries like numpy, pandas, scikit-learn, LightGBM, catboost, xgboost. So also I learned how to scrape and parse data from different sources. I used libraries , like selenium and beautifulsoup for solve that problems.
+Я изучал код на Python в течение 3 лет и SQL в течение 1 года, после того как переключился на анализ данных. Я изучил такие библиотеки, как numpy, pandas, scikit-learn, LightGBM, catboost, xgboost. Также за это время я научился ‘скраппить’ и ‘парсить’ данные из разных источников. Для решения этих проблем я использовал библиотеки, такие как selenium и beautifulsoup.
+До того, как я начал изучать python, я создавал рекламу для компании в социальных сетях (VK, Facebook, IG) и в Google Ads, а также в Яндекс директ. 
 
-Before I started learning python, I created ads for company at social media (VK,Facebook, IG) and at Google Ads, also  at Yandex direct.
+За, что я горжусь:
 
-* At the end of 2023, my team and I took second place at the GlowByte hackathon. [GlowByte hackathon](https://t.me/APoluesov)
-* 
+* В конце 2023 года я и моя команда заняли второе место на хакатоне GlowByte. Хакатон GlowByte по прогнозированию энергопотребления в регионе.
+* В начале 2024 года я вошел в призеры буткемпа ВШЭ по классификации новостей.
+
+Примеры работ:
+* Примеры запросов SQL c помощью библиотеки 
+* Аналитическая работа с данными (EDA)
+* Скрапинг и Парсинг данных 
+* Kaggle
+* Airflow 
+
+🧠Сферы интересов:
+
+* ML & DL
+* Психология 
+* Социология
+* Велик, сноуборд, различные виды активности, где чувствуешь свободу!
 
 
 
-*   🌍  I live in Russia
-*   🧠  I'm learning ML and DL
-*   🤝  I'm open to collaborating on projects
-*   ✉️  You can contact me at TG [@APoluesov](https://t.me/APoluesov)
+* 🤝  Я открыт для интересных проектов и предложений 
+* ✉️  Связать со мной можно в TG [@APoluesov](https://t.me/APoluesov)
