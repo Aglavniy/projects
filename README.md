@@ -13,7 +13,7 @@
 * В начале 2024 года я вошел в призеры буткемпа ВШЭ по классификации новостей.
 
 Примеры работ:
-* Примеры запросов SQL c помощью библиотеки (SQL) [SQL]
+* Примеры запросов SQL c помощью библиотеки (SQL) [/SQL]
 * Аналитическая работа с данными (EDA) [Exploratory data analysis](/different_code_python/EDA.ipynb)
 * Скрапинг и Парсинг данных (parsing_fontanka) [kaggle/parsing-fontanka.ipynb]
 * Kaggle [работы с Kaggle](/kaggle)
