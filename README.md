@@ -18,6 +18,7 @@
 * Скрапинг и Парсинг данных [parsing_fontanka](kaggle/parsing-fontanka.ipynb)
 * Kaggle [работы с Kaggle](/kaggle)
 * Airflow [работы с airflow](/airflow)
+* Презентации [presentations](/presentations)
 
 Сертификаты - [сертификаты](/certificates)
 Теория - [теоретические материалы](/theory)
