@@ -1,0 +1,45 @@
+
+def subsets(lst):
+
+    def func2(first, spisok):
+
+        # делаем списко, если первое число не список
+        if not isinstance(first, list):
+            first = [first]
+
+        for index in range(len(spisok)):
+            # создаем список
+            result = [*first, spisok[index]]
+
+            if result[-1] != spisok[-1]:
+                # print(spisok[index+1:])
+                yield result
+                for num_set in func2(result, spisok[index+1:]):
+                    yield num_set
+   
+            else:
+                yield result
+
+    for first_index in range(len(lst)):
+
+        number = lst[first_index]
+        yield [number]
+        # print(lst[first_index+1:])
+        for num in func2(number, lst[first_index+1:]):
+            yield num
+    yield []
+
+
+
+
+
+lst = [2,2]
+k = 0
+for subset in subsets(lst):  
+    k+=1
+    print(subset)
+print(k)
+
+lst = [1, 2, 30]
+gen = subsets(lst)
+print(next(gen), next(gen))
